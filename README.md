@@ -37,7 +37,7 @@ Comprehensive HTML documentation suite for Mobile LiDAR-based conservation resea
 ## 🚀 Quick Start
 
 ### View Online
-🌐 **Live Website:** Will be added after Vercel deployment
+🌐 **Live Website:** https://vamshi-research-a7l3i6adx-akhil-reddy-dandas-projects-e000c108.vercel.app
 
 ### View Locally
 1. Clone this repository
